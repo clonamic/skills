@@ -15,6 +15,9 @@ id_ed25519*
 *.log
 __pycache__/
 *.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 .venv/
 venv/
 node_modules/
